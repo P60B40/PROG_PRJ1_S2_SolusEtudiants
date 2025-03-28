@@ -1,0 +1,21 @@
+﻿  FctCalculTrigo.c
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(71,31): error C2079: 'str_triangleRectangle1' utilise une struct de 'str_triangleRectangle' non défini
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(74,25): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(75,25): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(77,25): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(78,25): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(79,29): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(80,26): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(94,31): error C2079: 'str_triangleRectangle1' utilise une struct de 'str_triangleRectangle' non défini
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(96,29): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(100,26): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(103,26): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(104,30): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(105,27): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(164,31): error C2079: 'str_triangleRectangle1' utilise une struct de 'str_triangleRectangle' non défini
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(166,28): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
+  mainProjet1_s2.c
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\mainProjet1_s2.c(91,5): error C2181: instruction else sans if correspondant non conforme
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\mainProjet1_s2.c(95,5): error C2181: instruction else sans if correspondant non conforme
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\mainProjet1_s2.c(123,5): error C2181: instruction else sans if correspondant non conforme
+  Génération de code en cours...

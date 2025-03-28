@@ -42,8 +42,9 @@ void main()
 	float angle_deg; 
 
 	//-- variable structure -> A IMPLEMENTER 
+	str_triangleRectangle triangle;
 	// triangle
-
+	
 	//-- message utilisateur --// 
 	printf("-- TEST n%02d - annee : %d - Nom Candidat : %s --\n", VERSION_PROJET, ANNEE_TEST, ptNOM_CANDIDAT); 
 
@@ -51,7 +52,7 @@ void main()
 	//printf("\n-> taille en memoire de la structure triangle : [o] \n", );
 	
 	//-- initialisation de la structure -> A IMPLEMENTER --//
-
+	testFct = InitialisationStructure(&triangle); // j'utilise la variable testFct et je lui donne la valeur de sortie de la fonction InitStructure
 	
 	//-- msg user & selection valeur --// 
 	//-- itération -> max 2 choix possible 
