@@ -1,21 +1,15 @@
 ﻿  FctCalculTrigo.c
-C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(71,31): error C2079: 'str_triangleRectangle1' utilise une struct de 'str_triangleRectangle' non défini
-C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(74,25): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
-C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(75,25): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
-C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(77,25): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
-C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(78,25): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
-C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(79,29): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
-C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(80,26): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
-C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(94,31): error C2079: 'str_triangleRectangle1' utilise une struct de 'str_triangleRectangle' non défini
-C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(96,29): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
-C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(100,26): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
-C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(103,26): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
-C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(104,30): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
-C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(105,27): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
-C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(164,31): error C2079: 'str_triangleRectangle1' utilise une struct de 'str_triangleRectangle' non défini
-C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(166,28): error C2224: la partie gauche de '.tb_Angle' doit avoir un type struct/union
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(201,42): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(207,44): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(213,40): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(233,76): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(236,74): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(243,81): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(245,77): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(252,79): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\FctCalculTrigo.c(255,77): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données
   mainProjet1_s2.c
-C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\mainProjet1_s2.c(91,5): error C2181: instruction else sans if correspondant non conforme
-C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\mainProjet1_s2.c(95,5): error C2181: instruction else sans if correspondant non conforme
-C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\mainProjet1_s2.c(123,5): error C2181: instruction else sans if correspondant non conforme
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\mainProjet1_s2.c(53,9): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'size_t'
+C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\Project1_S2_BZ\mainProjet1_s2.c(53,9): message : utilisez '%zd' dans la chaîne de format
   Génération de code en cours...
+  Project1_S2_BZ.vcxproj -> C:\B_Z dossier\Prog\PROG_PRJ1_S2_SolusEtudiants\BZI\Project1_S2_BZ\x64\Debug\Project1_S2_BZ.exe
